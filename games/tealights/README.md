@@ -1,7 +1,7 @@
-# Inner Names
+# Tealights
 [team][scorable][outdoor][posts][night]
 
-Hide with your candles in the darkness terrified of attackers trying to extinguish them.
+Hide with your *tealights* in the darkness, terrified of attackers trying to extinguish them.
 
 ## Preparation
 
@@ -21,7 +21,7 @@ The coordinator without an assigned post (let's call them the *game master*) tak
 
 ## Core Rules
 
-Each team gets a candle. For the first 20 minutes of the game players cannot attack each other. After that period feel free to blow out an opponents candle. Don't physically attack the opponent, though.
+Each team gets a *tealight*. For the first 20 minutes of the game players cannot attack each other. After that period feel free to blow out an opponents *tealight*. Don't physically attack the opponent, though.
 
 Players can move freely through the playing area.
 
@@ -55,7 +55,7 @@ During our playthrough (with teams of 6-7 players) we decided that at least 4 me
 
 *Game master* walks around the area and checks wether everything is going smoothly. During the first minutes of the game (it was around 15 during our playthrough) the game master should relit the *tealights* for free. Adjust this accoarding to weather and player skills.
 
-After that period start to charge players unlit *tealights* for lighting other ones. The price should go up and the players should be aware of that (so keep convincing them to do the deal, but don't force them). In the end of the game we asked for 4 unlit candles for lighting the fifth one.
+After that period start to charge players unlit *tealights* for lighting other ones. The price should go up and the players should be aware of that (so keep convincing them to do the deal, but don't force them). In the end of the game we asked for 4 unlit *tealights* for lighting the fifth one.
 
 ## Notes
 
